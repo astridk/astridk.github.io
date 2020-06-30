@@ -12,3 +12,6 @@ Riddick has surgically altered eyes that allow him to see in the dark but need p
 Quotes made by Riddick
 > There are bad days, 
 > and then there are legendary bad days.
+
+And this is Riddick in person
+<img src="https://upload.wikimedia.org/wikipedia/en/6/69/Riddick_poster.jpg"/>
