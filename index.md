@@ -8,3 +8,7 @@ Riddick has surgically altered eyes that allow him to see in the dark but need p
 * night vision
 * reckless
 * loyal
+
+Quotes made by Riddick
+> There are bad days, 
+> and then there are legendary bad days.
